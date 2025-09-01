@@ -1,0 +1,13 @@
+fastapi
+pydantic
+langchain-core
+langchain-google-genai
+requests
+python-dotenv
+langgraph
+typing-extensions
+uvicorn[standard]
+langgraph[sqlite]
+aiosqlite
+fpdf
+jinja2
